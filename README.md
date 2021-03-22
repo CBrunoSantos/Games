@@ -1,2 +1,3 @@
-# Games
-Alguns jogos que fiz, para treinar linguagem
+# SquareGame
+
+Joguinho um pouco mais complexo para testar conhecimentos no javascript
